@@ -998,3 +998,148 @@
 2023-10-04 09:16:03,404 [INFO] McuFinderGlobals:63 - Set McuFinder mode to 2 (CubeIDE integrated)
 2023-10-04 09:16:03,404 [INFO] UserAuth:179 - activating auth plugin
 2023-10-04 09:16:03,406 [INFO] UserAuth:393 - Internet connection configuration mode: 1
+2023-10-04 09:38:21,058 [INFO] WebApp:586 - userauth.ini created with success
+2023-10-04 09:38:40,545 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-04 09:38:41,452 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 302251040 Bytes (1017118720)
+2023-10-04 09:38:44,637 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-04 09:38:44,900 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 395047968 Bytes (1017118720)
+2023-10-04 09:38:46,040 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 420740128 Bytes (1017118720)
+2023-10-04 09:38:49,037 [INFO] ServerAccessManage:473 - Download File stm32cube_fw_f4_v1270.zip
+2023-10-04 09:39:51,596 [INFO] AnalyticsPlugin:368 - Accepted License(s): [FW.F4.1.27.0]
+2023-10-04 09:39:51,597 [INFO] FileExtend:240 - Unzip File : stm32cube_fw_f4_v1270.zip
+2023-10-04 09:39:51,597 [INFO] FileExtend:255 - Standard Zip Deflate
+2023-10-04 09:40:33,827 [INFO] ServerAccessManage:473 - Download File stm32cube_fw_f4_v1271.zip
+2023-10-04 09:40:40,058 [INFO] FileExtend:240 - Unzip File : stm32cube_fw_f4_v1271.zip
+2023-10-04 09:40:40,059 [INFO] FileExtend:255 - Standard Zip Deflate
+2023-10-04 09:40:40,061 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException: Cannot read field "width" because "this.componentInnards" is null
+2023-10-04 09:40:40,064 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.plaf.basic.BasicProgressBarUI.updateSizes(BasicProgressBarUI.java:542)
+2023-10-04 09:40:40,065 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.plaf.basic.BasicProgressBarUI.getBox(BasicProgressBarUI.java:499)
+2023-10-04 09:40:40,066 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.plaf.basic.BasicProgressBarUI.paintIndeterminate(BasicProgressBarUI.java:656)
+2023-10-04 09:40:40,067 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.plaf.metal.MetalProgressBarUI.paintIndeterminate(MetalProgressBarUI.java:155)
+2023-10-04 09:40:40,069 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.plaf.basic.BasicProgressBarUI.paint(BasicProgressBarUI.java:464)
+2023-10-04 09:40:40,070 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.plaf.ComponentUI.update(ComponentUI.java:161)
+2023-10-04 09:40:40,071 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.JComponent.paintComponent(JComponent.java:842)
+2023-10-04 09:40:40,072 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.JComponent.paint(JComponent.java:1119)
+2023-10-04 09:40:40,073 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.JComponent.paintToOffscreen(JComponent.java:5311)
+2023-10-04 09:40:40,075 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.RepaintManager$PaintManager.paintDoubleBufferedFPScales(RepaintManager.java:1721)
+2023-10-04 09:40:40,077 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.RepaintManager$PaintManager.paintDoubleBuffered(RepaintManager.java:1630)
+2023-10-04 09:40:40,080 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.RepaintManager$PaintManager.paint(RepaintManager.java:1570)
+2023-10-04 09:40:40,082 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.RepaintManager.paint(RepaintManager.java:1337)
+2023-10-04 09:40:40,084 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.JComponent._paintImmediately(JComponent.java:5259)
+2023-10-04 09:40:40,086 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.JComponent.paintImmediately(JComponent.java:5069)
+2023-10-04 09:40:40,088 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.RepaintManager$4.run(RepaintManager.java:879)
+2023-10-04 09:40:40,090 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.RepaintManager$4.run(RepaintManager.java:862)
+2023-10-04 09:40:40,092 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+2023-10-04 09:40:40,095 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+2023-10-04 09:40:40,098 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.RepaintManager.paintDirtyRegions(RepaintManager.java:862)
+2023-10-04 09:40:40,100 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.RepaintManager.paintDirtyRegions(RepaintManager.java:835)
+2023-10-04 09:40:40,103 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.RepaintManager.prePaintDirtyRegions(RepaintManager.java:784)
+2023-10-04 09:40:40,105 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.RepaintManager$ProcessingRunnable.run(RepaintManager.java:1898)
+2023-10-04 09:40:40,108 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+2023-10-04 09:40:40,110 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:771)
+2023-10-04 09:40:40,112 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:722)
+2023-10-04 09:40:40,115 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:716)
+2023-10-04 09:40:40,117 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+2023-10-04 09:40:40,119 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+2023-10-04 09:40:40,122 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:741)
+2023-10-04 09:40:40,125 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+2023-10-04 09:40:40,127 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+2023-10-04 09:40:40,130 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:117)
+2023-10-04 09:40:40,132 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.WaitDispatchSupport$2.run(WaitDispatchSupport.java:191)
+2023-10-04 09:40:40,134 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:236)
+2023-10-04 09:40:40,137 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:234)
+2023-10-04 09:40:40,139 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(AccessController.java:318)
+2023-10-04 09:40:40,141 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.WaitDispatchSupport.enter(WaitDispatchSupport.java:234)
+2023-10-04 09:40:40,143 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Dialog.show(Dialog.java:1080)
+2023-10-04 09:40:40,146 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.updater.gui.ProgressBarDialog.startProgressBar(ProgressBarDialog.java:154)
+2023-10-04 09:40:40,149 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.updater.engine.MainUpdater.loadFirmwareName(MainUpdater.java:2443)
+2023-10-04 09:40:40,151 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.updater.Updater.getSpecificTask(Updater.java:343)
+2023-10-04 09:40:40,154 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.projectmanager.engine.MainProjectManager.startGenerateCode(MainProjectManager.java:1370)
+2023-10-04 09:40:40,157 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.projectmanager.engine.MainProjectManager$3.onCommandEntered(MainProjectManager.java:255)
+2023-10-04 09:40:40,159 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.components.util.CommandLineManager$3.run(CommandLineManager.java:175)
+2023-10-04 09:40:40,162 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:308)
+2023-10-04 09:40:40,164 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:771)
+2023-10-04 09:40:40,166 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:722)
+2023-10-04 09:40:40,167 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:716)
+2023-10-04 09:40:40,169 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+2023-10-04 09:40:40,172 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+2023-10-04 09:40:40,175 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:741)
+2023-10-04 09:40:40,178 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+2023-10-04 09:40:40,180 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+2023-10-04 09:40:40,183 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+2023-10-04 09:40:40,185 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+2023-10-04 09:40:40,187 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+2023-10-04 09:40:40,189 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2023-10-04 09:40:40,826 [INFO] LoadServerPackagesThread:196 - End of LoadServerPackages Thread
+2023-10-04 09:40:40,954 [INFO] ThirdPartyModel:298 - Start build external matchings
+2023-10-04 09:40:40,961 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 166581672 Bytes (581959680)
+2023-10-04 09:40:41,331 [INFO] ThirdPartyModel:316 - End build external matchings
+2023-10-04 09:40:41,345 [INFO] CheckServerUpdateThread:120 - End of CheckServer Thread
+2023-10-04 09:40:41,559 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-10-04 09:40:41,559 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM6_7
+2023-10-04 09:40:41,559 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2S
+2023-10-04 09:40:41,559 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-10-04 09:40:41,559 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-10-04 09:40:41,560 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-10-04 09:40:41,560 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2023-10-04 09:40:41,560 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-10-04 09:40:41,560 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_HOST
+2023-10-04 09:40:41,560 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-10-04 09:40:41,564 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-10-04 09:40:41,574 [WARN] IP:2114 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2023-10-04 09:40:41,574 [WARN] IP:2114 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2023-10-04 09:40:41,919 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alex\ECE330Lab6\Lab06\MXTmpFiles\license.tmp_save
+2023-10-04 09:40:42,274 [INFO] CodeEngine:279 - Generated code: C:\Users\alex\ECE330Lab6\Lab06\MXTmpFiles\license.tmp
+2023-10-04 09:40:42,422 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alex\ECE330Lab6\Lab06\MXTmpFiles\gpio.tmp_save
+2023-10-04 09:40:42,681 [INFO] CodeEngine:279 - Generated code: C:\Users\alex\ECE330Lab6\Lab06\MXTmpFiles\gpio.tmp
+2023-10-04 09:40:42,865 [WARN] IPConfigManager:2937 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2023-10-04 09:40:42,889 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alex\ECE330Lab6\Lab06\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2023-10-04 09:40:43,035 [INFO] CodeEngine:279 - Generated code: C:\Users\alex\ECE330Lab6\Lab06\MXTmpFiles\usb_otg_fs_vars.tmp
+2023-10-04 09:40:43,049 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alex\ECE330Lab6\Lab06\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2023-10-04 09:40:43,151 [INFO] CodeEngine:279 - Generated code: C:\Users\alex\ECE330Lab6\Lab06\MXTmpFiles\usb_otg_fs_inc.tmp
+2023-10-04 09:40:43,174 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alex\ECE330Lab6\Lab06\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2023-10-04 09:40:43,335 [INFO] CodeEngine:279 - Generated code: C:\Users\alex\ECE330Lab6\Lab06\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2023-10-04 09:40:43,354 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alex\ECE330Lab6\Lab06\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2023-10-04 09:40:43,537 [INFO] CodeEngine:279 - Generated code: C:\Users\alex\ECE330Lab6\Lab06\MXTmpFiles\usb_otg_fs_Msp.tmp
+2023-10-04 09:40:44,000 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alex\ECE330Lab6\Lab06\USB_HOST\App\usb_host.c_save
+2023-10-04 09:40:44,162 [INFO] CodeEngine:279 - Generated code: C:\Users\alex\ECE330Lab6\Lab06\USB_HOST\App\usb_host.c
+2023-10-04 09:40:44,176 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alex\ECE330Lab6\Lab06\USB_HOST\App\usb_host.h_save
+2023-10-04 09:40:44,265 [INFO] CodeEngine:279 - Generated code: C:\Users\alex\ECE330Lab6\Lab06\USB_HOST\App\usb_host.h
+2023-10-04 09:40:44,276 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alex\ECE330Lab6\Lab06\USB_HOST\Target\usbh_conf.h_save
+2023-10-04 09:40:44,381 [INFO] CodeEngine:279 - Generated code: C:\Users\alex\ECE330Lab6\Lab06\USB_HOST\Target\usbh_conf.h
+2023-10-04 09:40:44,396 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alex\ECE330Lab6\Lab06\USB_HOST\Target\usbh_conf.c_save
+2023-10-04 09:40:44,486 [INFO] CodeEngine:279 - Generated code: C:\Users\alex\ECE330Lab6\Lab06\USB_HOST\Target\usbh_conf.c
+2023-10-04 09:40:44,504 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alex\ECE330Lab6\Lab06\USB_HOST\Target\usbh_platform.c_save
+2023-10-04 09:40:44,572 [INFO] CodeEngine:279 - Generated code: C:\Users\alex\ECE330Lab6\Lab06\USB_HOST\Target\usbh_platform.c
+2023-10-04 09:40:44,581 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alex\ECE330Lab6\Lab06\USB_HOST\Target\usbh_platform.h_save
+2023-10-04 09:40:44,649 [INFO] CodeEngine:279 - Generated code: C:\Users\alex\ECE330Lab6\Lab06\USB_HOST\Target\usbh_platform.h
+2023-10-04 09:40:44,667 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alex\ECE330Lab6\Lab06\Core\Src\stm32f4xx_it.c_save
+2023-10-04 09:40:44,775 [INFO] CodeEngine:279 - Generated code: C:\Users\alex\ECE330Lab6\Lab06\Core\Src\stm32f4xx_it.c
+2023-10-04 09:40:44,785 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alex\ECE330Lab6\Lab06\Core\Inc\stm32f4xx_it.h_save
+2023-10-04 09:40:44,853 [INFO] CodeEngine:279 - Generated code: C:\Users\alex\ECE330Lab6\Lab06\Core\Inc\stm32f4xx_it.h
+2023-10-04 09:40:44,871 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alex\ECE330Lab6\Lab06\Core\Src\stm32f4xx_hal_msp.c_save
+2023-10-04 09:40:44,992 [INFO] CodeEngine:279 - Generated code: C:\Users\alex\ECE330Lab6\Lab06\Core\Src\stm32f4xx_hal_msp.c
+2023-10-04 09:40:45,014 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alex\ECE330Lab6\Lab06\MXTmpFiles\system.tmp_save
+2023-10-04 09:40:45,088 [INFO] CodeEngine:279 - Generated code: C:\Users\alex\ECE330Lab6\Lab06\MXTmpFiles\system.tmp
+2023-10-04 09:40:45,109 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\alex\ECE330Lab6\Lab06\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-10-04 09:40:45,223 [INFO] CodeEngine:335 - Generated code: C:\Users\alex\ECE330Lab6\Lab06\Core\Inc\stm32f4xx_hal_conf.h
+2023-10-04 09:40:45,272 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-10-04 09:40:45,274 [WARN] CodeGenerator:3764 - IP not found : null
+2023-10-04 09:40:45,292 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alex\ECE330Lab6\Lab06\Core\Inc\main.h_save
+2023-10-04 09:40:45,421 [INFO] CodeEngine:279 - Generated code: C:\Users\alex\ECE330Lab6\Lab06\Core\Inc\main.h
+2023-10-04 09:40:45,436 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\alex\ECE330Lab6\Lab06\Core\Src\main.c_save
+2023-10-04 09:40:45,589 [INFO] CodeEngine:279 - Generated code: C:\Users\alex\ECE330Lab6\Lab06\Core\Src\main.c
+2023-10-04 09:40:46,114 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 154mS.
+2023-10-04 09:40:46,124 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-10-04 09:40:46,406 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2023-10-04 09:40:46,417 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2023-10-04 09:40:46,431 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2023-10-04 09:40:46,443 [INFO] ApiDbMcu:507 - Load IP Config File for LIBJPEG
+2023-10-04 09:40:46,459 [INFO] ApiDbMcu:507 - Load IP Config File for LWIP
+2023-10-04 09:40:46,474 [INFO] ApiDbMcu:507 - Load IP Config File for MBEDTLS
+2023-10-04 09:40:46,491 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2023-10-04 09:40:47,467 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-04 09:40:51,471 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 5346mS.
+2023-10-04 09:40:51,472 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-10-04 09:40:51,481 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-10-04 11:21:05,063 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
