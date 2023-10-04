@@ -146,6 +146,15 @@
     {D5, _16th},
 
     //Measure 2 is malformed?
+    {A6, _8th},
+    {A6, _16th},
+    {A6, _8th},
+    {G5, _8th},
+    {G5, quarter},
+    {C5, _16th},
+    {D5, _16th},
+    {F5, _16th},
+    {D5, _16th},
 
     //Measure 3 also malformed?
     {G5, _8th},
@@ -161,6 +170,7 @@
     {D5, _16th},
 
     //Measure 4
+    
 
 }
 ```
